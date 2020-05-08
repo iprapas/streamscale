@@ -1,7 +1,3 @@
-Env var: KAFKA_SERVER 
-example: localhost:9092
-
-
 # Datagen-Tool
 
 This project is taken by WS-19/20 BDAPro students:
